@@ -1,5 +1,8 @@
 /*
 
+!/.gitmodules
 !/.gitignore
 !/.sshrc.d
 !/.vim
+
+.vim/bundle/
