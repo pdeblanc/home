@@ -7,3 +7,5 @@ set ttymouse=sgr
 set statusline="%F%=%l,%c "
 set laststatus=2
 set backspace=indent,eol,start
+
+syntax on
