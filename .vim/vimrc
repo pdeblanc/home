@@ -14,8 +14,10 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'kien/ctrlp.vim'
-Plugin 'Vimjas/vim-python-pep8-indent'
 Plugin 'tpope/vim-fugitive'
+" Plugins for specific filetypes
+Plugin 'Vimjas/vim-python-pep8-indent'
+Plugin 'LnL7/vim-nix'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
