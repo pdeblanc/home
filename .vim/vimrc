@@ -13,6 +13,7 @@ call vundle#begin()
 " Vundle-managed plugins
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'scrooloose/nerdtree'
+Plugin 'scrooloose/syntastic'
 Plugin 'kien/ctrlp.vim'
 Plugin 'tpope/vim-fugitive'
 " Plugins for specific filetypes
