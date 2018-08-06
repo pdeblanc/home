@@ -28,6 +28,7 @@ filetype plugin indent on    " required
 " Plugin-specific configuration
 runtime plugin-configs/nerdtree.vim
 runtime plugin-configs/ctrlp.vim
+runtime plugin-configs/syntastic.vim
 
 " Language-specific configuration
 filetype plugin indent on
