@@ -16,6 +16,7 @@ Plugin 'scrooloose/nerdtree'
 Plugin 'scrooloose/syntastic'
 Plugin 'kien/ctrlp.vim'
 Plugin 'tpope/vim-fugitive'
+Plugin 'vim-airline/vim-airline'
 " Plugins for specific filetypes
 Plugin 'Vimjas/vim-python-pep8-indent'
 Plugin 'LnL7/vim-nix'
