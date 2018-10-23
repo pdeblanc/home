@@ -4,4 +4,4 @@ setlocal softtabstop=4
 setlocal shiftwidth=4
 setlocal autoindent
 setlocal backspace=indent,eol,start
-setlocal colorcolumn=81
+setlocal colorcolumn=80
