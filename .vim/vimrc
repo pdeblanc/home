@@ -32,6 +32,7 @@ Plugin 'LnL7/vim-nix'
 Plugin 'pangloss/vim-javascript'
 Plugin 'mxw/vim-jsx'
 Plugin 'plasticboy/vim-markdown'
+Plugin 'idris-hackers/idris-vim'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
