@@ -57,3 +57,5 @@ endfunc
 
 " Syntax changes
 highlight link jsxRegion String
+
+set nofoldenable
